@@ -11,60 +11,60 @@
 
 ###
 
-<h4 align="left">⚒️ Working on EVERYTHING!<br><br>⛮ Lerning about someting ¯\_(ツ)_/¯</h4>
+<h2 align="left">⚒️ Working on EVERYTHING!<br><br>⛮ Lerning about someting ¯\_(ツ)_/¯</h2>
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/8ajoup.jpg"  />
+<img align="right" height="180" src="https://i.imgflip.com/8ajoup.jpg"  />
 
 ###
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
   <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="20" />
-  <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="30" alt="bash logo"  />
+  <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="40" alt="bash logo"  />
   <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opengl/opengl-original.svg" height="30" alt="opengl logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opengl/opengl-original.svg" height="40" alt="opengl logo"  />
   <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
   <img width="20" />
-  <img src="https://cdn.simpleicons.org/svelte/FF3E00" height="30" alt="svelte logo"  />
+  <img src="https://cdn.simpleicons.org/svelte/FF3E00" height="40" alt="svelte logo"  />
   <img width="20" />
-  <img src="https://skillicons.dev/icons?i=firebase" height="30" alt="firebase logo"  />
+  <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo"  />
   <img width="20" />
-  <img src="https://skillicons.dev/icons?i=redis" height="30" alt="redis logo"  />
+  <img src="https://skillicons.dev/icons?i=redis" height="40" alt="redis logo"  />
   <img width="20" />
-  <img src="https://cdn.simpleicons.org/fastapi/009688" height="30" alt="fastapi logo"  />
+  <img src="https://cdn.simpleicons.org/fastapi/009688" height="40" alt="fastapi logo"  />
   <img width="20" />
-  <img src="https://skillicons.dev/icons?i=flask" height="30" alt="flask logo"  />
+  <img src="https://skillicons.dev/icons?i=flask" height="40" alt="flask logo"  />
   <img width="20" />
-  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="30" alt="nodejs logo"  />
+  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="40" alt="nodejs logo"  />
   <img width="20" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="30" alt="nextjs logo"  />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
   <img width="20" />
-  <img src="https://skillicons.dev/icons?i=express" height="30" alt="express logo"  />
+  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
   <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="20" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="30" alt="tailwindcss logo"  />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
   <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unix/unix-original.svg" height="30" alt="unix logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unix/unix-original.svg" height="40" alt="unix logo"  />
   <img width="20" />
-  <img src="https://cdn.simpleicons.org/ubuntu/E95420" height="30" alt="ubuntu logo"  />
+  <img src="https://cdn.simpleicons.org/ubuntu/E95420" height="40" alt="ubuntu logo"  />
   <img width="20" />
-  <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="30" alt="postgresql logo"  />
+  <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="40" alt="postgresql logo"  />
   <img width="20" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="30" alt="mysql logo"  />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
   <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="30" alt="pytorch logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo"  />
   <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" alt="numpy logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
   <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="30" alt="godot logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="40" alt="godot logo"  />
 </div>
 
 ###
