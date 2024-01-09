@@ -11,7 +11,7 @@
 
 ###
 
-<h2 align="left">⚒️ Working on EVERYTHING!<br><br>⛮ Lerning about someting ¯\_(ツ)_/¯</h2>
+<h2 align="left">⚒️ Working on Astar v2 and Chaotic Attractors!<br><br>⛮ Lerning about someting ¯\_(ツ)_/¯</h2>
 
 ###
 
