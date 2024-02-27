@@ -11,7 +11,7 @@
 
 ###
 
-<h2 align="left">⚒️ Working on Astar v2 and Machine Learing!<br><br>⛮ Lerning about someting ¯\_(ツ)_/¯</h2>
+<h2 align="left">⚒️ Working on Astar v2 and Machine Learning!<br><br>⛮ Lerning about someting ¯\_(ツ)_/¯</h2>
 
 ###
 
